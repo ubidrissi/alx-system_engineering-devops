@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod . ligo+x hello
+chmod +111 hello
